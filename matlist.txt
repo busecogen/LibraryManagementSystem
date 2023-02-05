@@ -1,0 +1,23 @@
+A1F16*Harry Potter and the Philosopher's Stone*Book*1997*Jo Rowling*223
+A1F17*Harry Potter and the Order of the Phoenix*Book*2003*Jo Rowling*766
+A1F18*Harry Potter and the Deathly Hallows*Book*2007*Jo Rowling*607
+A1F19*Life of Pi*Book*2001*Yann Martel*352
+A1F20*Charlie and the Chocolate Factory*Book*1964*Roald Dahl*155
+A1F21*Lord of the Rings*Book*1954*Tolkien*1178
+A1F22*The Da Vinci Code*Book*2003*Dan Brown*689
+A1F23*My Booky Wook*Book*2007*Russell Brand*253
+A1F24*White Teeth*Book*2000*Zadie Smith*480
+A1F25*Birdsong*Book*1193*Sebastian Faulks*407
+A1F26*Küçük Prens*Book*1943*Antoine*112*0
+A1F27*Kürk Mantolu Madonna*Book*1943*Sabahattin Ali*176*0
+A1F28*Kırmızı Pazartesi*Book*1981*Gabriel Garcia*107*0
+B2D34*Goodwill Hunting*Media*1997*CD*126*2.56*English*Turkish
+B2D35*The History of Paris*Media*1990*Audio*14*0.28*French*English
+B2D36*The Devil Within*Media*1940*CD*110*2.14*English*None
+B2D37*Silent House*Media*1983*Video*57*1.67*English*Turkish
+B2D38*Ottoman Empire*Media*1976*Audio*25*0.56*Turkish*None
+B2D39*Dead Poets Soceity*Media*1989*CD*128*2.62*English*None
+B2D40*Gerry*Media*2002*CD*103*1.89*English*Turkish
+B2D41*He named me Malala*Media*2021*Video*88*0.92*Urdu*English
+B2D42*The Dutch House*Media*2007*Audio*593*10.22*English*None
+

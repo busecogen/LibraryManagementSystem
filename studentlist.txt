@@ -1,0 +1,10 @@
+111*ali*veli*ctis*veli@ug.bilkent.edu.tr*A1F16&B2D34*1&3
+112*ayse*ayse*ctis*ayse@ug.bilkent.edu.tr*A1F17&B2D35*6&4
+113*aytac*sonmez*man*aytac@ug.bilkent.edu.tr*A1F18*2
+114*sukru*hayrettinoglu*ir*sukru@ug.bilkent.edu.tr*A1F19*5
+115*fadime*karadenizli*math*fadime@ug.bilkent.edu.tr*A1F20&B2D36*1&9
+116*hayri*gobek*pols*hayri@ug.bilkent.edu.tr*A1F21*8
+117*safinaz*finaz*man*safinaz@ug.bilkent.edu.tr*A1F22*7
+118*ebru*aydiner*ie*ebru@ug.bilkent.edu.tr*A1F23*2
+119*selahattin*cakaler*eee*selahattin@ug.bilkent.edu.tr*A1F24*4
+120*burhan*altintop*cs*burhan@ug.bilkent.edu.tr*A1F25&B2D37*5&6
